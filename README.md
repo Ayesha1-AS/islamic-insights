@@ -9,7 +9,7 @@ At "Islamic Insights," we are dedicated to sharing the timeless wisdom of Islam 
 ## Explore the Teachings
 
 *   *Hadith:* Dive into a collection of authentic Hadiths.
-*   *Quran Translation:* Read and reflect upon the translations of the Holy Quran.
+*   *Surah Translation:* Read and reflect upon the translations of the Holy Quran surah.
 *   *Seerat un Nabi (PBUH):* Learn about the life and teachings of Prophet Muhammad (PBUH).
 
 ## Links to Hadith Books
