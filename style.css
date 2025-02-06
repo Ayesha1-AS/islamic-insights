@@ -8,9 +8,6 @@ footer{
    border-bottom: 10ch;
    display: block;
    margin-bottom: 0cqb;
-   position: fixed;
-  bottom: 0;
-  left: 0;
 }
 p{
    color: white;
